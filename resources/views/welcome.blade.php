@@ -465,10 +465,46 @@
       font-size: 28px;
     }
   }
+.whatsapp-float {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #25d366;
+  color: white;
+  border-radius: 50px;
+  display: flex;
+  align-items: center;
+  padding: 10px 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  text-decoration: none;
+  font-family: "Poppins", sans-serif;
+  transition: all 0.3s ease;
+  z-index: 999;
+}
+
+.whatsapp-float:hover {
+  background-color: #1ebe5d;
+  transform: scale(1.05);
+}
+
+.whatsapp-float img {
+  width: 35px;
+  height: 35px;
+  margin-right: 10px;
+}
+
+.whatsapp-float span {
+  font-size: 16px;
+  font-weight: 500;
+}
 
   </style>
 </head>
 <body>
+<a href="https://wa.me/9555872224" class="whatsapp-float" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp">
+  <span>We are here</span>
+</a>
 
   <!-- BLUE BAR -->
   <div class="top-bar">
