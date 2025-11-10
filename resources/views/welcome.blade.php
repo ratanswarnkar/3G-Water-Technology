@@ -900,7 +900,7 @@ dropdowns.forEach(link => {
  <!-- ✅ Added Address & Phone -->
     <div style="color: #333; font-size: 17px; margin-bottom: 40px; line-height: 1.8;">
       <strong>📍 Address:</strong> Sona Complex, Office No. 5, 2nd Floor, Naya Bus, Sector 15, Noida, Gautam Buddha Nagar-201301, Uttar Pradesh, India<br>
-      <strong>📞 Phone:</strong> <a href="tel:+919555872224" style="color: #0078d4; text-decoration: none;">+91 9555872224</a><br>
+      <strong>📞 Phone:</strong> <a href="tel:+919910178195" style="color: #0078d4; text-decoration: none;">+91 9910178195</a><br>
       <strong>✉️ Email:</strong> <a href="mailto:info@3gwatertechnologies.in" style="color: #0078d4; text-decoration: none;">info@3gwatertechnologies.in</a>
     </div>
 
