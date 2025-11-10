@@ -566,7 +566,7 @@
   </style>
 </head>
 <body>
-<a href="https://wa.me/9555872224" class="whatsapp-float" target="_blank">
+<a href="https://wa.me/9910178195" class="whatsapp-float" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp">
   <span>We are here</span>
 </a>
@@ -574,7 +574,7 @@
   <!-- BLUE BAR -->
   <div class="top-bar">
     <div class="container">
-      <span>📞 9555872224</span>
+      <span>📞 9910178195</span>
     </div>
   </div>
 
